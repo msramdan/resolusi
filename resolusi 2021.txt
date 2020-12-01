@@ -1,0 +1,4 @@
+Resolusi Tahun 2021
+- Belajar REST API CI
+- Belajar React JS
+- Belajar React Native
